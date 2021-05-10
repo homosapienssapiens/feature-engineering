@@ -1,2 +1,2 @@
 # feature-engineering
-Repository for all the activity of my feature engieering class from my master degree in Data Science.
+Repository for projects and homeworks made in my feature engieering class from my masters degree in Data Science.
